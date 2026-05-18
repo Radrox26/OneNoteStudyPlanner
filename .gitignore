@@ -1,0 +1,39 @@
+# App Settings
+appsettings.json
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider/ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Publish folder
+publish/
+
+# Azure secrets
+appsettings.Development.json
+
+# Optional:
+# Ignore appsettings if storing secrets
+# appsettings.json

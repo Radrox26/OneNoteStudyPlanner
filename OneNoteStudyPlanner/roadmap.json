@@ -1,0 +1,538 @@
+﻿[
+  {
+    "day": 1,
+    "title": "C# Fundamentals Refresh",
+    "topics": [
+      "C# fundamentals refresh",
+      "Data types",
+      "Variables",
+      "Operators",
+      "Control statements"
+    ]
+  },
+  {
+    "day": 2,
+    "title": "Methods and Collections",
+    "topics": [
+      "Methods",
+      "Arrays",
+      "Collections",
+      "List",
+      "Dictionary",
+      "HashSet"
+    ]
+  },
+  {
+    "day": 3,
+    "title": "OOP Concepts",
+    "topics": [
+      "OOP concepts",
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Abstraction"
+    ]
+  },
+  {
+    "day": 4,
+    "title": "Interfaces and Access Modifiers",
+    "topics": [
+      "Interfaces vs Abstract Classes",
+      "Access modifiers",
+      "Static class vs Singleton"
+    ]
+  },
+  {
+    "day": 5,
+    "title": "Exception Handling and Delegates",
+    "topics": [
+      "Exception handling",
+      "Delegates",
+      "Events",
+      "Func",
+      "Action",
+      "Predicate"
+    ]
+  },
+  {
+    "day": 6,
+    "title": "LINQ Basics",
+    "topics": [
+      "LINQ basics",
+      "Select",
+      "Where",
+      "OrderBy",
+      "GroupBy",
+      "Join"
+    ]
+  },
+  {
+    "day": 7,
+    "title": "SQL Fundamentals",
+    "topics": [
+      "SQL fundamentals",
+      "SELECT",
+      "WHERE",
+      "ORDER BY",
+      "GROUP BY",
+      "HAVING",
+      "Aggregate functions"
+    ]
+  },
+  {
+    "day": 8,
+    "title": "SQL Joins",
+    "topics": [
+      "Joins",
+      "Inner Join",
+      "Left Join",
+      "Right Join",
+      "Full Join",
+      "Self Join"
+    ]
+  },
+  {
+    "day": 9,
+    "title": "Subqueries and CTEs",
+    "topics": [
+      "Subqueries",
+      "Correlated subqueries",
+      "CTEs"
+    ]
+  },
+  {
+    "day": 10,
+    "title": "Stored Procedures and Views",
+    "topics": [
+      "Stored Procedures",
+      "Functions",
+      "Views"
+    ]
+  },
+  {
+    "day": 11,
+    "title": "Indexes and Execution Plans",
+    "topics": [
+      "Indexes",
+      "Clustered vs Non-clustered",
+      "Execution plans basics"
+    ]
+  },
+  {
+    "day": 12,
+    "title": "Transactions and ACID",
+    "topics": [
+      "Transactions",
+      "ACID properties",
+      "Isolation levels"
+    ]
+  },
+  {
+    "day": 13,
+    "title": "Normalization and Relationships",
+    "topics": [
+      "Normalization",
+      "Denormalization",
+      "Keys",
+      "Relationships"
+    ]
+  },
+  {
+    "day": 14,
+    "title": "SQL Revision and Practice",
+    "topics": [
+      "SQL interview questions revision",
+      "Solve 25 SQL problems"
+    ]
+  },
+  {
+    "day": 15,
+    "title": "ASP.NET Core Architecture",
+    "topics": [
+      "ASP.NET Core architecture",
+      "Middleware",
+      "Request pipeline"
+    ]
+  },
+  {
+    "day": 16,
+    "title": "First Web API",
+    "topics": [
+      "Create first Web API",
+      "Controllers",
+      "Routing",
+      "HTTP methods"
+    ]
+  },
+  {
+    "day": 17,
+    "title": "Dependency Injection",
+    "topics": [
+      "Dependency Injection",
+      "Service lifetimes",
+      "Configuration"
+    ]
+  },
+  {
+    "day": 18,
+    "title": "EF Core Basics",
+    "topics": [
+      "Entity Framework Core basics",
+      "DbContext",
+      "Models",
+      "Migrations"
+    ]
+  },
+  {
+    "day": 19,
+    "title": "CRUD Operations with EF Core",
+    "topics": [
+      "CRUD operations using EF Core"
+    ]
+  },
+  {
+    "day": 20,
+    "title": "Repository Pattern and Service Layer",
+    "topics": [
+      "Repository pattern",
+      "Service layer architecture"
+    ]
+  },
+  {
+    "day": 21,
+    "title": "DTOs and AutoMapper",
+    "topics": [
+      "DTOs",
+      "AutoMapper",
+      "API response standardization"
+    ]
+  },
+  {
+    "day": 22,
+    "title": "JWT Authentication",
+    "topics": [
+      "Authentication basics",
+      "JWT authentication"
+    ]
+  },
+  {
+    "day": 23,
+    "title": "Authorization",
+    "topics": [
+      "Authorization",
+      "Roles",
+      "Claims",
+      "Policies"
+    ]
+  },
+  {
+    "day": 24,
+    "title": "Refresh Tokens and Security",
+    "topics": [
+      "Refresh tokens",
+      "Sliding expiration",
+      "Secure token storage"
+    ]
+  },
+  {
+    "day": 25,
+    "title": "Validation and Exception Handling",
+    "topics": [
+      "Validation",
+      "FluentValidation or Data Annotations",
+      "Global exception handling"
+    ]
+  },
+  {
+    "day": 26,
+    "title": "Logging and Versioning",
+    "topics": [
+      "Logging",
+      "Serilog basics",
+      "API versioning"
+    ]
+  },
+  {
+    "day": 27,
+    "title": "Swagger and API Testing",
+    "topics": [
+      "Swagger",
+      "Postman",
+      "API testing"
+    ]
+  },
+  {
+    "day": 28,
+    "title": "Mini Web API Project",
+    "topics": [
+      "Authentication",
+      "Product CRUD",
+      "Cart",
+      "Orders"
+    ]
+  },
+  {
+    "day": 29,
+    "title": "MVC Architecture",
+    "topics": [
+      "MVC architecture",
+      "Controllers",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "day": 30,
+    "title": "Razor Syntax and Layouts",
+    "topics": [
+      "Razor syntax",
+      "Layouts",
+      "Partial views"
+    ]
+  },
+  {
+    "day": 31,
+    "title": "Forms and Validation",
+    "topics": [
+      "Forms",
+      "Model binding",
+      "Validation"
+    ]
+  },
+  {
+    "day": 32,
+    "title": "MVC Data Passing",
+    "topics": [
+      "ViewBag",
+      "ViewData",
+      "TempData",
+      "Session"
+    ]
+  },
+  {
+    "day": 33,
+    "title": "Entity Framework with MVC",
+    "topics": [
+      "Entity Framework with MVC"
+    ]
+  },
+  {
+    "day": 34,
+    "title": "MVC Authentication",
+    "topics": [
+      "Authentication in MVC",
+      "Cookies",
+      "Sessions"
+    ]
+  },
+  {
+    "day": 35,
+    "title": "MVC CRUD Project",
+    "topics": [
+      "Build small MVC CRUD project"
+    ]
+  },
+  {
+    "day": 36,
+    "title": "Async Await and Threading",
+    "topics": [
+      "Async/Await",
+      "Tasks",
+      "Threading basics"
+    ]
+  },
+  {
+    "day": 37,
+    "title": "SOLID Principles",
+    "topics": [
+      "SOLID principles"
+    ]
+  },
+  {
+    "day": 38,
+    "title": "Design Patterns",
+    "topics": [
+      "Singleton",
+      "Repository",
+      "Factory",
+      "Strategy"
+    ]
+  },
+  {
+    "day": 39,
+    "title": "Microservices Basics",
+    "topics": [
+      "Microservices basics",
+      "Monolith vs Microservices"
+    ]
+  },
+  {
+    "day": 40,
+    "title": "REST API Best Practices",
+    "topics": [
+      "REST API best practices"
+    ]
+  },
+  {
+    "day": 41,
+    "title": "Caching and Redis",
+    "topics": [
+      "Caching",
+      "Redis basics",
+      "In-memory caching"
+    ]
+  },
+  {
+    "day": 42,
+    "title": "System Design Basics",
+    "topics": [
+      "Load balancer",
+      "Scaling",
+      "Database optimization"
+    ]
+  },
+  {
+    "day": 43,
+    "title": "HTML and CSS Refresh",
+    "topics": [
+      "HTML/CSS refresh"
+    ]
+  },
+  {
+    "day": 44,
+    "title": "JavaScript Basics",
+    "topics": [
+      "JavaScript basics"
+    ]
+  },
+  {
+    "day": 45,
+    "title": "ES6 Concepts",
+    "topics": [
+      "ES6 concepts"
+    ]
+  },
+  {
+    "day": 46,
+    "title": "React Fundamentals",
+    "topics": [
+      "React fundamentals",
+      "Components",
+      "Props",
+      "State"
+    ]
+  },
+  {
+    "day": 47,
+    "title": "React Hooks",
+    "topics": [
+      "useState",
+      "useEffect"
+    ]
+  },
+  {
+    "day": 48,
+    "title": "API Integration",
+    "topics": [
+      "API integration using Axios/Fetch"
+    ]
+  },
+  {
+    "day": 49,
+    "title": "Frontend and Backend Integration",
+    "topics": [
+      "Connect React frontend with ASP.NET Core API"
+    ]
+  },
+  {
+    "day": 50,
+    "title": "SQL Revision",
+    "topics": [
+      "Revise SQL completely"
+    ]
+  },
+  {
+    "day": 51,
+    "title": "Web API Revision",
+    "topics": [
+      "Revise Web API completely"
+    ]
+  },
+  {
+    "day": 52,
+    "title": "MVC Revision",
+    "topics": [
+      "Revise MVC completely"
+    ]
+  },
+  {
+    "day": 53,
+    "title": "EF Core and LINQ Revision",
+    "topics": [
+      "Revise Entity Framework",
+      "Revise LINQ"
+    ]
+  },
+  {
+    "day": 54,
+    "title": "Authentication Revision",
+    "topics": [
+      "Revise Authentication",
+      "Revise Authorization"
+    ]
+  },
+  {
+    "day": 55,
+    "title": "Coding Practice Arrays and Strings",
+    "topics": [
+      "Arrays",
+      "Strings",
+      "Hashing"
+    ]
+  },
+  {
+    "day": 56,
+    "title": "Coding Practice Linked List and Queue",
+    "topics": [
+      "Linked List",
+      "Stack",
+      "Queue"
+    ]
+  },
+  {
+    "day": 57,
+    "title": "Coding Practice Trees and Recursion",
+    "topics": [
+      "Trees",
+      "Recursion",
+      "Binary Search"
+    ]
+  },
+  {
+    "day": 58,
+    "title": "Mock Interviews",
+    "topics": [
+      "HR interview",
+      "Technical interview",
+      "Project explanation"
+    ]
+  },
+  {
+    "day": 59,
+    "title": "Resume and LinkedIn",
+    "topics": [
+      "Resume refinement",
+      "GitHub cleanup",
+      "LinkedIn update"
+    ]
+  },
+  {
+    "day": 60,
+    "title": "Final Revision and Job Applications",
+    "topics": [
+      "Final revision",
+      "Apply for jobs",
+      "Give interviews"
+    ]
+  }
+]
